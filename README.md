@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/odaff-bryceam/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=odaff-bryceam&show_icons=true&theme=synthwave)](https://github.com/odaff-bryceam/github-readme-stats)
 
 <!--
 **odaff-bryceam/odaff-bryceam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
