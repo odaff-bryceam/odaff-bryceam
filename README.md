@@ -9,4 +9,4 @@
 - 🔭 I’m currently working on the Feed Administration Application for ODAFF
 - 🌱 I’m currently learning C# and ASP.NET Core
 - 📫 How to reach me: LinkedIn, Facebook, X
-- ⚡ Fun fact: I've been developing since I was 12.
+- ⚡ Fun fact: I've been coding since I was 12.
