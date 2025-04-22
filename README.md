@@ -1,6 +1,6 @@
 <center>
   <p>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=odaff-bryceam&theme=ambient-gradient&hide_border=true&mode=weekly" /></a>
+    <img src="https://streak-stats.demolab.com/?user=odaff-bryceam&theme=ambient-gradient&hide_border=true&mode=weekly" />
   </p>
 </center>
 <br>
