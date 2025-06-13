@@ -6,6 +6,6 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on Feed apps for the Public and ODAFF Admnistration
+- 🔭 I’m currently working on Feed apps for the Public and ODAFF Administration
 - 🌱 I’m currently learning C#, ASP.NET Core, C++
 - 📫 How to reach me: Teams, LinkedIn, Facebook, X
