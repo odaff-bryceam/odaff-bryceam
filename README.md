@@ -6,6 +6,6 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on the CPS Feed application for ODAFF
-- 🌱 I’m currently learning C# and ASP.NET Core
+- 🔭 I’m currently working on Feed apps for the Public and ODAFF Admnistration
+- 🌱 I’m currently learning C#, ASP.NET Core, C++
 - 📫 How to reach me: Teams, LinkedIn, Facebook, X
