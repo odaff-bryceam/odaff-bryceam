@@ -6,6 +6,6 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on Feed apps for the Public and ODAFF Administration
-- 🌱 I’m currently learning C#, ASP.NET Core, C++
+- 🔭 I’m currently working on RUP and Hemp apps for the Public and ODAFF Administration
+- 🌱 I’m currently learning Dynamic Programming and preparing to learn Discrete Math
 - 📫 How to reach me: Teams, LinkedIn, Facebook, X
