@@ -7,5 +7,5 @@
 <br>
 
 - 🔭 I’m currently working on apps for the Public and ODAFF Administration
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Data Structures and Algorithms in C++
 - 📫 How to reach me: Teams, LinkedIn, Facebook, X
